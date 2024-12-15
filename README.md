@@ -1,1 +1,1 @@
-# Building-Optimal-Regression-Model-through-Variable-Model-Selection
+Developed a robust Multiple Linear Regression model to predict policyholder premiums using a dataset of 7 features. Optimized predictor selection through Best Subset Selection based on Adjusted R², AIC, BIC, and Mallows' Cp. Evaluated model assumptions and detected influential data points using metrics like Cook's Distance, Leverage values, and Studentized residuals. Finalized a 4-predictor model with max VIF less than 10 and an MSPR of 0.9404.
